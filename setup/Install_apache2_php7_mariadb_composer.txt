@@ -18,3 +18,5 @@ password
 composer create-project silverstripe/installer /vagrant/html2
 
 set virtual host to web root folder then change back to webroot/public folder to shorten the root url
+
+composer create-project phpmyadmin/phpmyadmin
